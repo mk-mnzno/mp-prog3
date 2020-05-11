@@ -1,0 +1,258 @@
+.mainbg {
+    -fx-background-image: url("Images/main-bg.jpg");
+    -fx-background-size: 100% 100%;
+}
+
+.tile-plain {
+    -fx-background-image: url("Images/tile-plain.png");
+    -fx-background-size: 100% 100%;
+}
+
+.tile-chance {
+    -fx-background-image: url("Images/tile-chance.png");
+    -fx-background-size: 100% 100%;
+}
+
+.tile-freeparking {
+    -fx-background-image: url("Images/tile-freeparking.png");
+    -fx-background-size: 100% 100%;
+}
+
+.tile-income {
+    -fx-background-image: url("Images/tile-income.png");
+    -fx-background-size: 100% 100%;
+}
+
+.tile-luxury {
+    -fx-background-image: url("Images/tile-luxury.png");
+    -fx-background-size: 100% 100%;
+}
+
+.tile-jail{
+    -fx-background-image: url("Images/tile-jail.png");
+    -fx-background-size: 100% 100%;
+}
+
+.red-nohouse {
+    -fx-background-image: url("Images/prop-red-nohouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.red-onehouse {
+    -fx-background-image: url("Images/prop-red-onehouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.red-twohouse {
+    -fx-background-image: url("Images/prop-red-twohouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.red-threehouse {
+    -fx-background-image: url("Images/prop-red-threehouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.red-fourhouse {
+    -fx-background-image: url("Images/prop-red-fourhouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.red-hotel {
+    -fx-background-image: url("Images/prop-red-hotel.png");
+    -fx-background-size: 100% 100%;
+}
+
+.green-nohouse {
+    -fx-background-image: url("Images/prop-green-nohouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.green-onehouse {
+    -fx-background-image: url("Images/prop-green-onehouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.green-twohouse {
+    -fx-background-image: url("Images/prop-green-twohouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.green-threehouse {
+    -fx-background-image: url("Images/prop-green-threehouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.green-fourhouse {
+    -fx-background-image: url("Images/prop-green-fourhouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.green-hotel {
+    -fx-background-image: url("Images/prop-green-hotel.png");
+    -fx-background-size: 100% 100%;
+}
+
+.violet-nohouse {
+    -fx-background-image: url("Images/prop-violet-nohouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.violet-onehouse {
+    -fx-background-image: url("Images/prop-violet-onehouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.violet-twohouse {
+    -fx-background-image: url("Images/prop-violet-twohouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.violet-threehouse {
+    -fx-background-image: url("Images/prop-violet-threehouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.violet-fourhouse {
+    -fx-background-image: url("Images/prop-violet-fourhouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.violet-hotel {
+    -fx-background-image: url("Images/prop-violet-hotel.png");
+    -fx-background-size: 100% 100%;
+}
+
+
+
+.blue-nohouse {
+    -fx-background-image: url("Images/prop-blue-nohouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.blue-onehouse {
+    -fx-background-image: url("Images/prop-blue-onehouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.blue-twohouse {
+    -fx-background-image: url("Images/prop-blue-twohouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.blue-threehouse {
+    -fx-background-image: url("Images/prop-blue-threehouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.blue-fourhouse {
+    -fx-background-image: url("Images/prop-blue-fourhouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.blue-hotel {
+    -fx-background-image: url("Images/prop-blue-hotel.png");
+    -fx-background-size: 100% 100%;
+}
+
+.gray-nohouse {
+    -fx-background-image: url("Images/prop-gray-nohouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.gray-onehouse {
+    -fx-background-image: url("Images/prop-gray-onehouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.gray-twohouse {
+    -fx-background-image: url("Images/prop-gray-twohouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.gray-threehouse {
+    -fx-background-image: url("Images/prop-gray-threehouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.gray-fourhouse {
+    -fx-background-image: url("Images/prop-gray-fourhouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.gray-hotel {
+    -fx-background-image: url("Images/prop-gray-hotel.png");
+    -fx-background-size: 100% 100%;
+}
+
+.orange-nohouse {
+    -fx-background-image: url("Images/prop-orange-nohouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.orange-onehouse {
+    -fx-background-image: url("Images/prop-orange-onehouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.orange-twohouse {
+    -fx-background-image: url("Images/prop-orange-twohouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.orange-threehouse {
+    -fx-background-image: url("Images/prop-orange-threehouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.orange-fourhouse {
+    -fx-background-image: url("Images/prop-orange-fourhouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.orange-hotel {
+    -fx-background-image: url("Images/prop-orange-hotel.png");
+    -fx-background-size: 100% 100%;
+}
+
+.yellow-nohouse {
+    -fx-background-image: url("Images/prop-yellow-nohouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.yellow-onehouse {
+    -fx-background-image: url("Images/prop-yellow-onehouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.yellow-twohouse {
+    -fx-background-image: url("Images/prop-yellow-twohouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.yellow-threehouse {
+    -fx-background-image: url("Images/prop-yellow-threehouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.yellow-fourhouse {
+    -fx-background-image: url("Images/prop-yellow-fourhouse.png");
+    -fx-background-size: 100% 100%;
+}
+
+.yellow-hotel {
+    -fx-background-image: url("Images/prop-yellow-hotel.png");
+    -fx-background-size: 100% 100%;
+}
+
+.leftPane {
+    -fx-rotate: 90;
+}
+
+.upperPane {
+    -fx-rotate: 180;
+}
+
+.rightPane {
+    -fx-rotate: 270;
+}
